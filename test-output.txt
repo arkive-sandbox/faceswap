@@ -1,0 +1,10 @@
+
+> face-swap-web@0.1.0 test
+> jest
+
+
+Test Suites: 3 passed, 3 total
+Tests:       11 passed, 11 total
+Snapshots:   0 total
+Time:        0.603 s, estimated 1 s
+Ran all test suites.
